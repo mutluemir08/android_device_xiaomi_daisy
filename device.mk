@@ -149,7 +149,8 @@ PRODUCT_COPY_FILES += \
 # Bluetooth
 PRODUCT_PACKAGES += \
     libbluetooth_qti \
-    libbt-logClient.so
+    libbt-logClient.so \
+    libldacBT_dec
 
 # Boot SPL
 BOOT_SECURITY_PATCH = $(PLATFORM_SECURITY_PATCH)
