@@ -2784,11 +2784,11 @@ vendor/lib64/libqti-util.so|953aed526a2d1b933f1d2a2cf0ea251f78776ac2
 vendor/lib64/vendor.qti.hardware.perf@1.0.so|e170515160f954fff04926e225e24efd4b986822
 vendor/lib64/vendor.qti.hardware.perf@2.0.so|995c09a1b930df7a5793623f9996e4fba22a9570
 
-# Peripheral manager - from LA.UM.8.6.2.r1-03700-89xx.0
-vendor/bin/pm-proxy|e32473bdd7f59dba3d59717fe68cb8d49b675369
-vendor/bin/pm-service|89b024adc75adcbf2424e8a79df0cda710e71c8d
-vendor/lib/libperipheral_client.so|8b6ed4ea17e10e8de67d666982f23216d9751064
-vendor/lib64/libperipheral_client.so|ca568b0769e86015862b07281539669d1ec0f5e4
+# Peripheral manager - from LA.UM.8.6.2.r1-07100-89xx.0
+vendor/bin/pm-proxy|6317be13e38a4f7e5005ef544ab36bc7fe9cc3fd
+vendor/bin/pm-service|fa484756ab4dc2f74871eb24dd8a01750a755c6c
+vendor/lib/libperipheral_client.so|022054d6b2428c5f505e812b55628555420e40a1
+vendor/lib64/libperipheral_client.so|0afe9a901303a7206e2e8ad7ae3e35779d1dbfb5
 
 # Power-off alarm - from LA.UM.8.6.2.r1-03700-89xx.0
 product/framework/vendor.qti.hardware.alarm-V1.0-java.jar|69dedc62181ae26bb2fac4eaacb1f2c38eb21c31
