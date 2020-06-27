@@ -1,6 +1,5 @@
 #!/bin/bash
 #
-# Copyright (C) 2016 The CyanogenMod Project
 # Copyright (C) 2017 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -23,6 +22,6 @@ export DEVICE=sakura
 export DEVICE_COMMON=msm8953-common
 export VENDOR=xiaomi
 
-export DEVICE_BRINGUP_YEAR=2017
+export DEVICE_BRINGUP_YEAR=2019
 
-./../../$VENDOR/$DEVICE_COMMON/setup-makefiles.sh $@
+./../../$VENDOR/$DEVICE_COMMON/extract-files.sh $@
